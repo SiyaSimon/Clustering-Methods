@@ -38,7 +38,6 @@ The following datasets have been used to evaluate the clustering methods:
 ### **Evaluation & Results**  
 Each clustering algorithm has been evaluated based on its ability to correctly cluster data points, with **Adjusted Rand Index (ARI)** used as a key metric to measure clustering performance. The results provide insights into which method is best suited for different types of datasets.  
 
--
 
 ### **Conclusion**  
 While **K-Means** is effective for well-separated clusters, **Hierarchical Clustering** provides better interpretability. **DBSCAN** performs well on datasets with noise and irregular shapes, while **GMM** is useful for complex, overlapping clusters. This project highlights the strengths and limitations of each method across different datasets.  
